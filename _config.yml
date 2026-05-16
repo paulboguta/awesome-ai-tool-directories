@@ -1,0 +1,32 @@
+title: "Awesome AI Tool Directories"
+description: "A curated list of AI tool directories where ChatGPT-wrappers, LLM apps, and AI SaaS get discovered. Sorted by domain authority."
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-sitemap
+
+author:
+  name: Pawel Boguta
+  url: https://batchlisted.com
+
+twitter:
+  card: summary
+
+show_downloads: false
+
+keywords: "AI tool directories, best AI directories, where to list AI tools, AI SaaS directories, submit AI tool"
+
+# Jekyll generates pretty URLs; default layout applies cayman to README
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - .github/
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - _push.cjs
