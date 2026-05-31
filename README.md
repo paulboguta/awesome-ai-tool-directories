@@ -4,7 +4,7 @@
 
 AI tool directories exploded in 2023–2025. Some now drive serious traffic to AI builders. This list curates the **AI tool directories** worth submitting to — sorted by Domain Rating, tagged with dofollow/nofollow, and filtered for active sites. Includes AI-friendly launch platforms.
 
-**21 directories** curated and last updated **2026-05-16**. All entries verified for activity and tagged with Domain Rating, follow type, and pricing.
+**22 directories** curated and last updated **2026-05-31**. All entries verified for activity and tagged with Domain Rating, follow type, and pricing.
 
 ## Contents
 
@@ -38,6 +38,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[There's An AI For That](https://theresanaiforthat.com)** · DR 62 · dofollow · free + paid tier — Largest AI directory.
 - **[FutureTools](https://futuretools.io)** · DR 55 · dofollow · free — Matt Wolfe's directory.
 - **[TopAI.tools](https://topai.tools)** · DR 55 · dofollow · paid
+- **[ZPlatform.ai](https://zplatform.ai)** · DR 51 · dofollow · free — Hands-on tested tools with Buy/Wait/Skip verdicts; also lists SaaS lifetime deals.
 - **[Futurepedia](https://www.futurepedia.io)** · DR 42 · conditional dofollow · free + paid tier
 - **[AI Tools Directory](https://aitoolsdirectory.com)** · DR 40 · nofollow · free
 - **[BAI.tools](https://bai.tools)** · DR 40 · conditional dofollow · free + paid tier
