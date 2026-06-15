@@ -50,6 +50,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[Vernclaw Connect CLI](https://vernclaw.com/)** · open-source · free — Official connector CLI with JSON-first agent-friendly invocation, bundled skill docs, and SEO/Product Hunt/X/YouTube/image-generation examples.
 
 ## How to Submit Efficiently
 
