@@ -19,6 +19,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 ## ⭐ Top Pick
 
 - **[Batchlisted](https://batchlisted.com/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-ai-tool-directories)** · service · from $99 — Done-for-you submission to 100+ AI tool directories. Hand-picked, founder-curated. Skip the 20+ hours of manual submission and ship more product.
+- **[HokAI](https://hokai.io)** · DR X (in progress) · dofollow · free — Curated AI tools directory with Smart Match for buyers, 100+ daily users, permanent dofollow backlinks, manually maintained listings.
 
 ## Launch Platforms
 
