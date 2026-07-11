@@ -50,6 +50,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[ToolMagpie](https://toolmagpie.com)** · new · free — Live-verified AI **agent** directory (customer service, sales, coding, MCP servers, automation); auto-flags dead tools, with side-by-side comparisons and honest pricing.
 
 ## How to Submit Efficiently
 
