@@ -50,6 +50,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[WhatAreYouBuilding.AI](https://whatareyoubuilding.ai)** · dofollow · free — Free worldwide directory of indie builders' AI, SaaS, and dev tools (country, category, funding stage); live badge; MCP at /mcp.
 
 ## How to Submit Efficiently
 
