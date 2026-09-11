@@ -35,8 +35,8 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 *AI tool directories. Growing rapidly since 2023; some now rival Product Hunt in traffic for AI builders.*
 
 - **[Toolify](https://www.toolify.ai)** · DR 75 · dofollow · paid
+- **[SaaSCity](https://saascity.io)** · DR 64 · dofollow · free — Gamified SaaS/AI directory; every listing becomes a building on an isometric city map.
 - **[There's An AI For That](https://theresanaiforthat.com)** · DR 62 · dofollow · free + paid tier — Largest AI directory.
-- **[SaaSCity](https://saascity.io)** · DR 59 · dofollow · free — Gamified SaaS/AI directory; every listing becomes a building on an isometric city map.
 - **[FutureTools](https://futuretools.io)** · DR 55 · dofollow · free — Matt Wolfe's directory.
 - **[TopAI.tools](https://topai.tools)** · DR 55 · dofollow · paid
 - **[Futurepedia](https://www.futurepedia.io)** · DR 42 · conditional dofollow · free + paid tier
