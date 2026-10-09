@@ -4,7 +4,7 @@
 
 AI tool directories exploded in 2023–2025. Some now drive serious traffic to AI builders. This list curates the **AI tool directories** worth submitting to — sorted by Domain Rating, tagged with dofollow/nofollow, and filtered for active sites. Includes AI-friendly launch platforms.
 
-**21 directories** curated and last updated **2026-05-16**. All entries verified for activity and tagged with Domain Rating, follow type, and pricing.
+**22 directories** curated and last updated **2026-10-09**. Entries show follow type and pricing; DR/DA is included when known.
 
 ## Contents
 
@@ -50,6 +50,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[AI Compare Ninja](https://www.aicompare.ninja/en/)** · dofollow · free — Editorial AI-tool comparisons, sourced prices, and an embeddable API cost calculator.
 
 ## How to Submit Efficiently
 
