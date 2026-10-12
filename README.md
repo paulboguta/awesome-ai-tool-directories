@@ -50,6 +50,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[Altimateguide](https://altimateguide.com/request-inclusion)** · dofollow · free + paid tier — General tools directory with its own AI tools categories. Manual editorial review on every submission; free listing via a public SayAbout.Us Wall of Love or an on-site badge, $14.99 one-time with no verification.
 
 ## How to Submit Efficiently
 
