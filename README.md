@@ -51,6 +51,9 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
 
+
+- **[AI Tools Radar](https://aitoolsradar.com/)** — Multilingual AI product discovery with models, agent skills, prompts, and editorial coverage; vendor submission is paid.
+
 ## How to Submit Efficiently
 
 Manually submitting to 100+ directories takes 20+ hours and a lot of context-switching. A few tips that compound:
