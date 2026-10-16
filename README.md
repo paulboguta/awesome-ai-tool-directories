@@ -50,6 +50,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[Public Prompts](https://www.publicprompts.art)** · nofollow · paid ($19.99 once + applicable tax) — Reviewed AI tools directory; free browsing.
 
 ## How to Submit Efficiently
 
