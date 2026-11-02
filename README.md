@@ -50,6 +50,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[Easy With AI](https://easywithai.com)** · DA 27 · dofollow · free
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
+- **[Build Stack Tools](https://buildstacktools.com/submit.html)** · free — Directory and finder for AI app-builder and coding tools; free listing, no account, optional paid Express Listing.
 
 ## How to Submit Efficiently
 
