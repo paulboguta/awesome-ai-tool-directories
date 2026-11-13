@@ -32,7 +32,6 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 
 ## AI Tool Directories
 
-
 *AI tool directories. Growing rapidly since 2023; some now rival Product Hunt in traffic for AI builders.*
 
 - **[Toolify](https://www.toolify.ai)** · DR 75 · dofollow · paid
