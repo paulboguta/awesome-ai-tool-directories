@@ -32,6 +32,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 
 ## AI Tool Directories
 
+
 *AI tool directories. Growing rapidly since 2023; some now rival Product Hunt in traffic for AI builders.*
 
 - **[Toolify](https://www.toolify.ai)** · DR 75 · dofollow · paid
@@ -51,6 +52,8 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[AI Scout](https://aiscout.net)** · DA 25 · dofollow · free
 - **[AI Tool Hunt](https://www.aitoolhunt.com)** · DA 24 · dofollow · free
 
+- **[AITrustList](https://aitrustlist.com)** · DR · dofollow · free + paid tier — AI tools directory ranked by verified traffic and growth.
+- **[AIHuntList](https://aihuntlist.com)** · DR · dofollow · free + paid tier — Navigation hub for 3,000+ AI apps across 200+ categories.
 ## How to Submit Efficiently
 
 Manually submitting to 100+ directories takes 20+ hours and a lot of context-switching. A few tips that compound:
